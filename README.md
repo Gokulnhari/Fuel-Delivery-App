@@ -23,7 +23,7 @@ This project was developed as part of our B.Tech Final Year Project at **APJ Abd
 ---
 
 ## 📸 Screenshots
-![App Login](screenshots/login.png)  
+![App Login](https://github.com/Gokulnhari/Fuel-Delivery-App/blob/main/SS%20ON%20Fuel%20delivery/photo_2024-05-01_17-08-19.jpg)  
 ![Order Page](screenshots/order.png)  
 *(More in the PPT and report)*  
 
