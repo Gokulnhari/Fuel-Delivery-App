@@ -24,14 +24,14 @@ This project was developed as part of our B.Tech Final Year Project at **APJ Abd
 
 ## 📸 Screenshots
 ![App Login](https://github.com/Gokulnhari/Fuel-Delivery-App/blob/main/SS%20ON%20Fuel%20delivery/photo_2024-05-01_17-08-19.jpg)  
-![Order Page](screenshots/order.png)  
+![Order Page](https://github.com/Gokulnhari/Fuel-Delivery-App/blob/main/SS%20ON%20Fuel%20delivery/photo_2024-05-01_17-08-29.jpg)  
 *(More in the PPT and report)*  
 
 ---
 
 ## 📂 Project Files
-- 📄 [Project Report (PDF)](Main%20Project.pdf)  
-- 🎤 [Presentation (PPT)](ppt-paper%20presentation%5Bfinal%5D%5B1%5D.ppt)  
+- 📄 [Project Report (PDF)]  
+- 🎤 [Presentation (PPT)] 
 
 ---
 
